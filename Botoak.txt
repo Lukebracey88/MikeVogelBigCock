@@ -1,0 +1,92 @@
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50c94b795a043daaa7a483800bc427db:da6b62e09393d4584e5f41a99b5f4108
+#EXTINF:-1, Tottenham V Arsenal
+https://g001-sle-us-cmaf-prd-cf.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s/Live/channel(4506284-606547-419337e4453)/master.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb7535341ed738bf8503365fe2cd67b7:b64b3fafe1a2568e6ab4c8554da5e8b6
+#EXTINF:-1, West Ham V Liverpool
+https://g001-sle-us-cmaf-prd-cf.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s/Live/channel(4506281-606544-41933507d90)/master.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00222b39abe4eef54f5f5e814437d59c:d3679a2683407f998c58d7eb2b813809
+#EXTINF:-1, Man United v. Burnley
+https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5007998-708594-48e03fbeb72)/master.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74b9a033389d3d13914b5ce01e48966a:bfc15af04e13824e552e53c804d3a63b
+#EXTINF:-1, Brighton V Man City
+https://g001-sle-us-cmaf-prd-cf.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s/Live/channel(4506195-606458-4192e303bba)/master.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fe7f05a03637fbb9d393a20c50ddd2:068fb1adbceb38488481c643defe21f9
+#EXTINF:-1, Arsenal V Aston Villa
+https://g001-sle-us-cmaf-prd-cf.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s/Live/channel(4506070-606333-41926bce1fd)/master.mpd
+
+
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="eleven.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",ELEVEN 1	
+#KODIPROP:inputstream.adaptive.license_type=clearkey	
+#KODIPROP:inputstream.adaptive.license_key=00224369c8e2aa76bdf3de136a0dcfef:55d9030f0086eb9c51bddae10eb1a264
+https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(2504740-206012-2472e2675bc)/master.mpd?c3.ri=5005858363359737665
+
+
+https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(2504734-206006-2472dcae836)/master.mpd?c3.ri=5002761991468599269
+
+00227ec2d8155143734a1ff9cae82039:30910747f150c670ec23bf2192d37e24
+https://g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2504674-205943-2472a3760f7)/master.mpd?c3.ri=3778063952103242050
+
+
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="eleven.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",ELEVEN 1	
+#KODIPROP:inputstream.adaptive.license_type=clearkey	
+#KODIPROP:inputstream.adaptive.license_key=ee19205e33603bdca5aec99750557453:adff83a80b738ccdba8beb6332fd254e
+https://g001-sle-us-cmaf-prd-cf.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s/Live/channel(4505783-606046-41915a19b1e)/master.mpd
+
+
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="eleven.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",ELEVEN 1	
+#KODIPROP:inputstream.adaptive.license_type=clearkey	
+#KODIPROP:inputstream.adaptive.license_key=0005f05c21a77f9475e05b177e70111a:ca009f546f9348a3659d877e3f67ee19
+https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportspremierleague)/manifest_720.mpd
+
+
+
+
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="eleven.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",ELEVEN 1	
+#KODIPROP:inputstream.adaptive.license_type=clearkey	
+#KODIPROP:inputstream.adaptive.license_key=0022fda65f2141b2a4036ee08702558e:f9c134fa2eb5c70d25942fcb1fc71263
+https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2504676-205945-2472a55e579)/master.mpd
+
+
+
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="eleven.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",ELEVEN 1	
+#KODIPROP:inputstream.adaptive.license_type=clearkey	
+#KODIPROP:inputstream.adaptive.license_key=0022d29c5236a2438679b6c7237a76a0:fa2b4fbac1e649c4c0dfe76ff822f44e
+https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2504711-205982-2472c6bf45e)/master.mpd
+
+
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="eleven.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",ELEVEN 1	
+#KODIPROP:inputstream.adaptive.license_type=clearkey	
+#KODIPROP:inputstream.adaptive.license_key=0022de1f3fbbf3b4ae8a504d5d102ea2:7932bf1484816f53024bb7c71bfb1593
+https://g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_CTR-4s/Live/channel(2504645-205914-247287cdf9a)/master.mpd?c3.ri=5005857824833647677
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="VIP SPORT",Premier Sports 5 
+https://manifest-redirect.streamamg.com/ssai/event/bXVe9grKSYmkvUzHLCywIw/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="VIP SPORT",Premier Sports 5 
+https://manifest-redirect.streamamg.com/ssai/event/tuhso5A9TqCtiraWuDqXWQ/master.m3u8
+
+
