@@ -1,248 +1,238 @@
 
 ###########################  CHINA
 
-#########
-
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-1-1
-http://103.95.24.37:880/CCTV-1.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-2-1
-http://103.95.24.37:880/CCTV-2.m3u8
-
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-3-1
-http://103.95.24.37:880/CCTV-3.m3u8
-
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV-4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-4-1
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226725/1.m3u8
-
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-5-1
-http://103.95.24.37:880/CCTV-5.m3u8
-
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-5+1
-http://103.95.24.37:880/CCTV-5P.m3u8
-
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV-6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-6-1
-http://103.95.24.37:880/CCTV-6.m3u8
-
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV-7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-7-1
-http://103.95.24.37:880/CCTV-7.m3u8
-
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV-8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-8-1
-http://103.95.24.37:880/CCTV-8.m3u8
-
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV-9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-9-1
-http://103.95.24.37:880/CCTV-9.m3u8
-
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV-10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-10-1
-http://103.95.24.37:880/CCTV-10.m3u8
-
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV-11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-11-1
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226714/1.m3u8
-
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV-12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-12-1
-http://103.95.24.37:880/CCTV-12.m3u8
-
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV-13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-13-1
-http://103.95.24.37:880/CCTV-13.m3u8
-
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV-14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-14-1
-http://103.95.24.37:880/CCTV-14.m3u8
-
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV-15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-15-1
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226648/1.m3u8
-
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV-16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-rez="3840x2160" group-title="CCTV SHENZEN",CCTV16-1
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226825/1.m3u8
-
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV-17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-17-1
-http://103.95.24.37:880/CCTV-17.m3u8
-
-#######################
-
-
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-1
-https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
-
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-2
-https://node3.olelive.com:6443/live/CCTV2HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
-
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-3
-https://z02.ubtvfans.com/live/rx1/2808/184ae3594c7818808f852cc6988b4525/index.m3u8
-
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV-4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-4
-https://z02.ubtvfans.com/live/rx3/203/a90506bab6678c2b41ef34ae66a04425/index.m3u8
-
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-5
-https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=5d5002f5860105c607f1912613130deb
-
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-5
-https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=2baf5c99a96735a5c47602d67e9cdbd8
-
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-5+
-https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8?token=5d5001f5860104c607f1902613130feb
-
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-5+
-https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV-6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-6
-https://z02.ubtvfans.com/live/rx1/206/22c8d0a177803e1a378082c851a16007/index.m3u8
-
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV-6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-6
-https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
-
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV-7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-7
-http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8
-
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV-8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-8
-https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=20a4b042a7ebd9aa76006cb475dd62e2
-
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV-9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-9
-https://z02.ubtvfans.com/live/rx1/2308/b9274dbd51113ace3244a6927beeeca3/index.m3u8
-
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV-9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-9
-https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV1-0" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-10-1
-http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
-
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV-13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-13
-https://z02.ubtvfans.com/live/rx1/213/4985ed10e25b72869efa7f2f7b839f1a/index.m3u8
-
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV-13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-13
-https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=a15d0045e6b4df699fc10482e5dd875f
-
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV-16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV 奥林匹克
-http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-16_4000.m3u8
-
-#################
-
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-1-1
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-1-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-2-1
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-2-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-3-1
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV-3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-3-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV-4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-4-1
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-4-1
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226725/1.m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-5-1
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-5-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-5+1
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV-5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-5+1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV-6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-6-1
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV-6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-6-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV-7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-7-1
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV-7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-7-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV-8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-8-1
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV-8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-8-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV-9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-9-1
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV-9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-9-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV-10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-10-1
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV-10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-10-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV-11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-11-1
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV-11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-11-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV-12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-12-1
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV-12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-12-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV-13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-13-1
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-13-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV-14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-14-1
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV-14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-14-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV-15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-15-1
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV-15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-15-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV-16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-rez="3840x2160" group-title="CCTV 呜呜",CCTV16-1
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-rez="3840x2160" group-title="CCTV 呜呜",CCTV16-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV-17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-17-1
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV-17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-rez="1920x1080" group-title="CCTV 呜呜",CCTV-17-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-####£#£#######
+##############
 
-
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-1-1
+#EXTINF:-1 tvg-id="CCTV 1" tvg-name="CCTV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-1-1
 https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
 
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-2-1
+#EXTINF:-1 tvg-id="CCTV 2" tvg-name="CCTV-2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-2-1
 https://node3.olelive.com:6443/live/CCTV2HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
 
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-3-1
+#EXTINF:-1 tvg-id="CCTV 3" tvg-name="CCTV-3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-3-1
 https://z02.ubtvfans.com/live/rx1/2808/184ae3594c7818808f852cc6988b4525/index.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV-4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-4-1
+#EXTINF:-1 tvg-id="CCTV 4" tvg-name="CCTV-4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-4-1
 https://z02.ubtvfans.com/live/rx3/203/a90506bab6678c2b41ef34ae66a04425/index.m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-5-1
+#EXTINF:-1 tvg-id="CCTV 5" tvg-name="CCTV-5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-5-1
 https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=5d5002f5860105c607f1912613130deb
 
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-5-1
+#EXTINF:-1 tvg-id="CCTV 5" tvg-name="CCTV-5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-5-1
 https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=2baf5c99a96735a5c47602d67e9cdbd8
 
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-5+1
+#EXTINF:-1 tvg-id="CCTV 5+" tvg-name="CCTV-5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-5+1
 https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8?token=5d5001f5860104c607f1902613130feb
 
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV-5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-5+1
-https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV-6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-6-1
+#EXTINF:-1 tvg-id="CCTV 6" tvg-name="CCTV-6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-6-1
 https://z02.ubtvfans.com/live/rx1/206/22c8d0a177803e1a378082c851a16007/index.m3u8
 
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV-6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-6-1
-https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
-
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV-7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-7-1
+#EXTINF:-1 tvg-id="CCTV 7" tvg-name="CCTV-7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-7-1
 http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8
 
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV-8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-8-1
+#EXTINF:-1 tvg-id="CCTV 8" tvg-name="CCTV-8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-8-1
 https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=20a4b042a7ebd9aa76006cb475dd62e2
 
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV-9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-9-1
+#EXTINF:-1 tvg-id="CCTV 9" tvg-name="CCTV-9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-9-1
 https://z02.ubtvfans.com/live/rx1/2308/b9274dbd51113ace3244a6927beeeca3/index.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV-9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-9-1
-https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV-10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-10-1
+#EXTINF:-1 tvg-id="CCTV 10" tvg-name="CCTV-10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-10-1
 http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
 
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV-11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-11-1
+#EXTINF:-1 tvg-id="CCTV 11" tvg-name="CCTV-11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-11-1
 http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-16_4000.m3u8
 
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV-12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-12-1
+#EXTINF:-1 tvg-id="CCTV 12" tvg-name="CCTV-12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-12-1
 https://node1.olelive.com:6443/live/CCTV16HD.live.flv?token=7bb0efc7ddb092b52f81d4e786b0086b
 
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV-13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-13-1
+#EXTINF:-1 tvg-id="CCTV 13" tvg-name="CCTV-13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-13-1
 https://z02.ubtvfans.com/live/rx1/213/4985ed10e25b72869efa7f2f7b839f1a/index.m3u8
 
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV-13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-13-1
-https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=a15d0045e6b4df699fc10482e5dd875f
-
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV-14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-14-1
+#EXTINF:-1 tvg-id="CCTV 14" tvg-name="CCTV-14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-14-1
 http://103.95.24.37:880/CCTV-14.m3u8
 
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV-15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-15-1
+#EXTINF:-1 tvg-id="CCTV 15" tvg-name="CCTV-15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-15-1
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226648/1.m3u8
 
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV-16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-rez="3840x2160" group-title="CCTV 央视频道",CCTV16-1
+#EXTINF:-1 tvg-id="CCTV 16" tvg-name="CCTV-16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-rez="3840x2160" group-title="CCTV 央视频道",CCTV16-1
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226825/1.m3u8
 
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV-17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-17-1
+#EXTINF:-1 tvg-id="CCTV 17" tvg-name="CCTV-17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-rez="1920x1080" group-title="CCTV 央视频道",CCTV-17-1
 http://103.95.24.37:880/CCTV-17.m3u8
 
 ############
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-1
+https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
+
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-2
+https://node3.olelive.com:6443/live/CCTV2HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
+
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV-3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-3
+https://z02.ubtvfans.com/live/rx1/2808/184ae3594c7818808f852cc6988b4525/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-4
+https://z02.ubtvfans.com/live/rx3/203/a90506bab6678c2b41ef34ae66a04425/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-5
+https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=5d5002f5860105c607f1912613130deb
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-5
+https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=2baf5c99a96735a5c47602d67e9cdbd8
+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV-5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-5+
+https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8?token=5d5001f5860104c607f1902613130feb
+
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV-6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-6
+https://z02.ubtvfans.com/live/rx1/206/22c8d0a177803e1a378082c851a16007/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV-7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-7
+http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8
+
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV-8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-8
+https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=20a4b042a7ebd9aa76006cb475dd62e2
+
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV-9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-9
+https://z02.ubtvfans.com/live/rx1/2308/b9274dbd51113ace3244a6927beeeca3/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV-10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-10-1
+http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
+
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV-11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-11-1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV-12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-12-1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-13
+https://z02.ubtvfans.com/live/rx1/213/4985ed10e25b72869efa7f2f7b839f1a/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-13-1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV-14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-14-1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV-15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-15-1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-rez="3840x2160" group-title="CCTV MAINLAND",CCTV16-1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV-17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-rez="1920x1080" group-title="CCTV MAINLAND",CCTV-17-1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
+#################
+
+#EXTINF:-1 tvg-id="CCTV 1" tvg-name="CCTV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-1-1
+http://103.95.24.37:880/CCTV-1.m3u8
+
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-2-1
+http://103.95.24.37:880/CCTV-2.m3u8
+
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV-3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-3-1
+http://103.95.24.37:880/CCTV-3.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-4-1
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226725/1.m3u8
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-5-1
+http://103.95.24.37:880/CCTV-5.m3u8
+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV-5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-5+1
+http://103.95.24.37:880/CCTV-5P.m3u8
+
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV-6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-6-1
+http://103.95.24.37:880/CCTV-6.m3u8
+
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV-7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-7-1
+http://103.95.24.37:880/CCTV-7.m3u8
+
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV-8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-8-1
+http://103.95.24.37:880/CCTV-8.m3u8
+
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV-9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-9-1
+http://103.95.24.37:880/CCTV-9.m3u8
+
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV-10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-10-1
+http://103.95.24.37:880/CCTV-10.m3u8
+
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV-11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-11-1
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226714/1.m3u8
+
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV-12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-12-1
+http://103.95.24.37:880/CCTV-12.m3u8
+
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-13-1
+http://103.95.24.37:880/CCTV-13.m3u8
+
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV-14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-14-1
+http://103.95.24.37:880/CCTV-14.m3u8
+
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV-15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-15-1
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226648/1.m3u8
+
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-rez="3840x2160" group-title="CCTV SHENZEN",CCTV16-1
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226825/1.m3u8
+
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV-17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-rez="1920x1080" group-title="CCTV SHENZEN",CCTV-17-1
+http://103.95.24.37:880/CCTV-17.m3u8
+
+#######################
 
 #EXTINF:-1 group-title="未分组",东方卫视
 http://58.216.99.148:80/live2.rxip.sc96655.com/live/dfwsH265_4000.m3u8
